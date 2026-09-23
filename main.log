@@ -1,0 +1,3351 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.20)  22 SEP 2026 14:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/TOAN/Documents/HCMUT/senior_design_project_1/main.tex
+(c:/Users/TOAN/Documents/HCMUT/senior_design_project_1/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrextend.st
+y
+Package: scrextend 2026/02/02 v3.49.2 KOMA-Script package (extend other classes
+ with features of KOMA-Script classes)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-dependent
+ basics and keyval usage)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independen
+t basics and keyval usage)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hoo
+k.sty
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hook
+s)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
+))) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 370.
+))) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2026/03/07 v6.0 Page Geometry
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen157
+\l__fontspec_tmpb_dim=\dimen158
+\l__fontspec_tmpc_dim=\dimen159
+ (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgtermes.sty
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+LaTeX Font Info:    Trying to load font information for TU+qtm on input line 12
+.
+LaTeX Font Info:    No file TUqtm.fd. on input line 12.
+
+
+LaTeX Font Warning: Font shape `TU/qtm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 12.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+\MT@toks=\toks19
+\MT@tempbox=\box53
+\MT@count=\count298
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks20
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen160
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count299
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-xete
+x.def
+File: microtype-xetex.def 2026/03/01 v3.2d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 443.
+LaTeX Info: Redefining \lslig on input line 451.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count300
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count301
+\c@listtotal=\count302
+\c@listcount=\count303
+\c@liststart=\count304
+\c@liststop=\count305
+\c@citecount=\count306
+\c@citetotal=\count307
+\c@multicitecount=\count308
+\c@multicitetotal=\count309
+\c@instcount=\count310
+\c@maxnames=\count311
+\c@minnames=\count312
+\c@maxitems=\count313
+\c@minitems=\count314
+\c@citecounter=\count315
+\c@maxcitecounter=\count316
+\c@savedcitecounter=\count317
+\c@uniquelist=\count318
+\c@uniquename=\count319
+\c@refsection=\count320
+\c@refsegment=\count321
+\c@maxextratitle=\count322
+\c@maxextratitleyear=\count323
+\c@maxextraname=\count324
+\c@maxextradate=\count325
+\c@maxextraalpha=\count326
+\c@abbrvpenalty=\count327
+\c@highnamepenalty=\count328
+\c@lownamepenalty=\count329
+\c@maxparens=\count330
+\c@parenlevel=\count331
+\blx@tempcnta=\count332
+\blx@tempcntb=\count333
+\blx@tempcntc=\count334
+\c@blx@maxsection=\count335
+\blx@maxsegment@0=\count336
+\blx@notetype=\count337
+\blx@parenlevel@text=\count338
+\blx@parenlevel@foot=\count339
+\blx@sectionciteorder@0=\count340
+\blx@sectionciteorderinternal@0=\count341
+\blx@entrysetcounter=\count342
+\blx@biblioinstance=\count343
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count344
+\c@maxcomprange=\count345
+\c@mincompwidth=\count346
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count347
+\c@savedafterword=\count348
+\c@annotator=\count349
+\c@savedannotator=\count350
+\c@author=\count351
+\c@savedauthor=\count352
+\c@bookauthor=\count353
+\c@savedbookauthor=\count354
+\c@commentator=\count355
+\c@savedcommentator=\count356
+\c@editor=\count357
+\c@savededitor=\count358
+\c@editora=\count359
+\c@savededitora=\count360
+\c@editorb=\count361
+\c@savededitorb=\count362
+\c@editorc=\count363
+\c@savededitorc=\count364
+\c@foreword=\count365
+\c@savedforeword=\count366
+\c@holder=\count367
+\c@savedholder=\count368
+\c@introduction=\count369
+\c@savedintroduction=\count370
+\c@namea=\count371
+\c@savednamea=\count372
+\c@nameb=\count373
+\c@savednameb=\count374
+\c@namec=\count375
+\c@savednamec=\count376
+\c@translator=\count377
+\c@savedtranslator=\count378
+\c@shortauthor=\count379
+\c@savedshortauthor=\count380
+\c@shorteditor=\count381
+\c@savedshorteditor=\count382
+\c@labelname=\count383
+\c@savedlabelname=\count384
+\c@institution=\count385
+\c@savedinstitution=\count386
+\c@lista=\count387
+\c@savedlista=\count388
+\c@listb=\count389
+\c@savedlistb=\count390
+\c@listc=\count391
+\c@savedlistc=\count392
+\c@listd=\count393
+\c@savedlistd=\count394
+\c@liste=\count395
+\c@savedliste=\count396
+\c@listf=\count397
+\c@savedlistf=\count398
+\c@location=\count399
+\c@savedlocation=\count400
+\c@organization=\count401
+\c@savedorganization=\count402
+\c@origlocation=\count403
+\c@savedoriglocation=\count404
+\c@origpublisher=\count405
+\c@savedorigpublisher=\count406
+\c@publisher=\count407
+\c@savedpublisher=\count408
+\c@language=\count409
+\c@savedlanguage=\count410
+\c@origlanguage=\count411
+\c@savedoriglanguage=\count412
+\c@pageref=\count413
+\c@savedpageref=\count414
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.def
+)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count415
+\c@textcitetotal=\count416
+\c@textcitemaxnames=\count417
+\c@biburlbigbreakpenalty=\count418
+\c@biburlbreakpenalty=\count419
+\c@biburlnumpenalty=\count420
+\c@biburlucpenalty=\count421
+\c@biburllcpenalty=\count422
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count423
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
+x
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count424
+\c@bbx:relatedtotal=\count425
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-12-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
+sty
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+)) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box54
+\extrarowheight=\dimen162
+\NC@list=\toks21
+\extratabsurround=\skip74
+\backup@length=\skip75
+\ar@cellbox=\box55
+)
+\TX@col@width=\dimen163
+\TX@old@table=\dimen164
+\TX@old@col=\dimen165
+\TX@target=\dimen166
+\TX@delta=\dimen167
+\TX@cols=\count426
+\TX@ftn=\toks22
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen168
+\lightrulewidth=\dimen169
+\cmidrulewidth=\dimen170
+\belowrulesep=\dimen171
+\belowbottomsep=\dimen172
+\aboverulesep=\dimen173
+\abovetopsep=\dimen174
+\cmidrulesep=\dimen175
+\cmidrulekern=\dimen176
+\defaultaddspace=\dimen177
+\@cmidla=\count427
+\@cmidlb=\count428
+\@aboverulesep=\dimen178
+\@belowrulesep=\dimen179
+\@thisruleclass=\count429
+\@lastruleclass=\count430
+\@thisrulewidth=\dimen180
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count431
+\LTcapwidth=\dimen181
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count432
+\LT@rows=\count433
+\c@LT@tables=\count434
+\c@LT@chunks=\count435
+\LT@p@ftn=\toks23
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
+) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count436
+\float@exts=\toks24
+\float@box=\box61
+\@float@everytoks=\toks25
+\@floatcapt=\box62
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen184
+\captionmargin=\dimen185
+\caption@leftmargin=\dimen186
+\caption@rightmargin=\dimen187
+\caption@width=\dimen188
+\caption@indent=\dimen189
+\caption@parindent=\dimen190
+\caption@hangindent=\dimen191
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count437
+\c@continuedfloat=\count438
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: scrextend package is loaded.
+\caption@addmargin@hsize=\dimen192
+\caption@addmargin@linewidth=\dimen193
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count439
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count440
+) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen194
+\ESO@tempdimb=\dimen195
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen196
+\pgfutil@tempdimb=\dimen197
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box63
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen198
+\pgf@y=\dimen199
+\pgf@xa=\dimen256
+\pgf@ya=\dimen257
+\pgf@xb=\dimen258
+\pgf@yb=\dimen259
+\pgf@xc=\dimen260
+\pgf@yc=\dimen261
+\pgf@xd=\dimen262
+\pgf@yd=\dimen263
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count441
+\c@pgf@countb=\count442
+\c@pgf@countc=\count443
+\c@pgf@countd=\count444
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count445
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-xetex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count446
+)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count447
+\pgfsyssoftpath@bigbuffer@items=\count448
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen264
+\pgfmath@count=\count449
+\pgfmath@box=\box64
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count450
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen265
+\pgf@picmaxx=\dimen266
+\pgf@picminy=\dimen267
+\pgf@picmaxy=\dimen268
+\pgf@pathminx=\dimen269
+\pgf@pathmaxx=\dimen270
+\pgf@pathminy=\dimen271
+\pgf@pathmaxy=\dimen272
+\pgf@xx=\dimen273
+\pgf@xy=\dimen274
+\pgf@yx=\dimen275
+\pgf@yy=\dimen276
+\pgf@zx=\dimen277
+\pgf@zy=\dimen278
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen279
+\pgf@path@lasty=\dimen280
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen281
+\pgf@shorten@start@additional=\dimen282
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count451
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen283
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen284
+\pgf@pt@y=\dimen285
+\pgf@pt@temp=\dimen286
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen287
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen288
+\pgf@sys@shading@range@num=\count452
+\pgf@shadingcount=\count453
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box68
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box69
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen289
+\pgf@nodesepend=\dimen290
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen291
+\pgffor@skip=\dimen292
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count454
+\pgfplotmarksize=\dimen293
+)
+\tikz@lastx=\dimen294
+\tikz@lasty=\dimen295
+\tikz@lastxsaved=\dimen296
+\tikz@lastysaved=\dimen297
+\tikz@lastmovetox=\dimen298
+\tikz@lastmovetoy=\dimen299
+\tikzleveldistance=\dimen300
+\tikzsiblingdistance=\dimen301
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count455
+\tikznumberofchildren=\count456
+\tikznumberofcurrentchild=\count457
+\tikz@fig@count=\count458
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count459
+\pgfmatrixcurrentcolumn=\count460
+\pgf@matrix@numberofcolumns=\count461
+)
+\tikz@expandcount=\count462
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen302
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen303
+\pgfarrowlength=\dimen304
+\pgfarrowwidth=\dimen305
+\pgfarrowlinewidth=\dimen306
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revi
+sion.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code
+.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.
+code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen307
+\c@pgfplots@coordindex=\count463
+\c@pgfplots@scanlineindex=\count464
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotss
+ysgeneric.code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplots
+library.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompati
+b\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompati
+b\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+util.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
+\pgfplotsliststructure.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
+\pgfplotsliststructureext.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
+\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count465
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
+\pgfplotsmatrix.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfp
+lotstableshared.code.tex
+\c@pgfplotstable@counta=\count466
+\t@pgfplotstable@a=\toks44
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
+\pgfplotsdeque.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+binary.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+binary.data.code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+util.verb.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibra
+rypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count467
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrar
+ypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrar
+ypgfplots.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count468
+))))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+colormap.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
+color.code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstack
+edplots.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsploth
+andlers.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshp
+lothandler.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshp
+lotimage.code.tex)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scal
+ing.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoord
+processing.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.erro
+rbars.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mark
+ers.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks
+.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.path
+s.code.tex)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduled
+ecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen308
+\pgfdecoratedremainingdistance=\dimen309
+\pgfdecoratedinputsegmentcompleteddistance=\dimen310
+\pgfdecoratedinputsegmentremainingdistance=\dimen311
+\pgf@decorate@distancetomove=\dimen312
+\pgf@decorate@repeatstate=\count469
+\pgfdecorationsegmentamplitude=\dimen313
+\pgfdecorationsegmentlength=\dimen314
+)
+\tikz@lib@dec@box=\box74
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibr
+arypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count470
+\pgfplots@xmin@reg=\dimen315
+\pgfplots@xmax@reg=\dimen316
+\pgfplots@ymin@reg=\dimen317
+\pgfplots@ymax@reg=\dimen318
+\pgfplots@zmin@reg=\dimen319
+\pgfplots@zmax@reg=\dimen320
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip80
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks45
+\ex@=\dimen321
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen322
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count471
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count472
+\leftroot@=\count473
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count474
+\DOTSCASE@=\count475
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box75
+\strutbox@=\box76
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen323
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count476
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count477
+\dotsspace@=\muskip22
+\c@parentequation=\count478
+\dspbrk@lvl=\count479
+\tag@help=\toks46
+\row@=\count480
+\column@=\count481
+\maxfields@=\count482
+\andhelp@=\toks47
+\eqnshift@=\dimen324
+\alignsep@=\dimen325
+\tagshift@=\dimen326
+\tagwidth@=\dimen327
+\totwidth@=\dimen328
+\lineht@=\dimen329
+\@envbody=\toks48
+\multlinegap=\skip81
+\multlinetaggap=\skip82
+\mathdisplay@stack=\toks49
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize.
+sty
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box77
+\beforetitleunit=\skip83
+\aftertitleunit=\skip84
+\ttl@plus=\dimen330
+\ttl@minus=\dimen331
+\ttl@toksa=\toks50
+\titlewidth=\dimen332
+\titlewidthlast=\dimen333
+\titlewidthfirst=\dimen334
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count483
+\lst@gtempboxa=\box78
+\lst@token=\toks51
+\lst@length=\count484
+\lst@currlwidth=\dimen335
+\lst@column=\count485
+\lst@pos=\count486
+\lst@lostspace=\dimen336
+\lst@width=\dimen337
+\lst@newlines=\count487
+\lst@lineno=\count488
+\lst@maxwidth=\dimen338
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count489
+\lst@skipnumbers=\count490
+\lst@framebox=\box79
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip85
+\f@nch@offset@elh=\skip86
+\f@nch@offset@erh=\skip87
+\f@nch@offset@olh=\skip88
+\f@nch@offset@orh=\skip89
+\f@nch@offset@elf=\skip90
+\f@nch@offset@erf=\skip91
+\f@nch@offset@olf=\skip92
+\f@nch@offset@orf=\skip93
+\f@nch@height=\skip94
+\f@nch@footalignment=\skip95
+\f@nch@widthL=\skip96
+\f@nch@widthC=\skip97
+\f@nch@widthR=\skip98
+\@temptokenb=\toks52
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.
+sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count491
+) 
+)) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count492
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen339
+\Hy@linkcounter=\count493
+\Hy@pagecounter=\count494
+ (C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count495
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count496
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen340
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count497
+\Field@Width=\dimen341
+\Fld@charsize=\dimen342
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count498
+\c@Item=\count499
+\c@Hfootnote=\count500
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
+\pdfm@box=\box80
+\c@Hy@AnnotLevel=\count501
+\HyField@AnnotCount=\count502
+\Fld@listcount=\count503
+\c@bookmark@seq@number=\count504
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip99
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 68.
+\@quotelevel=\count505
+\@quotereset=\count506
+ (main.aux
+
+LaTeX Warning: Label `fig:system_architecture' multiply defined.
+
+
+LaTeX Warning: Label `fig:system_architecture' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(113.81102pt, 660.10394pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=660.10394pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=11.69997pt plus 5.19942pt minus 2.60054pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 108.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 108.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 108.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 108.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 108.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 108.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 108.
+LaTeX Font Info:    Redeclaring math accent \check on input line 108.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 108.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 108.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 108.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 108.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 108.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
+08.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 108.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+108.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+108.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 108.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 108.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 108.
+LaTeX Info: Redefining \microtypecontext on input line 108.
+Package microtype Info: Applying patch `item' on input line 108.
+Package microtype Info: Applying patch `toc' on input line 108.
+Package microtype Info: Applying patch `eqnum' on input line 108.
+Package microtype Info: Applying patch `footnote' on input line 108.
+Package microtype Info: Applying patch `verbatim' on input line 108.
+LaTeX Info: Redefining \microtypesetup on input line 108.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `TimesNewRoman' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 108.
+Package biblatex Info: Reference segment=0 on input line 108.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
+
+\c@lstlisting=\count507
+Package hyperref Info: Link coloring ON on input line 108.
+(main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+ (sections/cover-page.tex
+File: images/Logo_BK.png Graphic file (type bmp)
+<images/Logo_BK.png>
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
+
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+
+
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+(C:\Users\TOAN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+[1
+
+]) (sections/abstract.tex
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 2.
+
+Underfull \hbox (badness 1253) in paragraph at lines 2--3
+[]\TU/TimesNewRoman(0)/m/n/13 This project presents a 2D pose estimation method
+ for a low-cost
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 2--3
+\TU/TimesNewRoman(0)/m/n/13 The purpose is to estimate the robot’s position and
+ orientation by fusing
+ []
+
+) [1
+
+
+] (main.toc
+Underfull \hbox (badness 1694) in paragraph at lines 29--29
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Practical Considerations in Mecanum Whe
+el Robot 
+ []
+
+[2
+
+]
+Underfull \hbox (badness 4872) in paragraph at lines 70--70
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Mathematical Foundation of $\OML/cmm/m/
+it/12 SE\OT1/cmr/m/n/12 (3)$ \TU/TimesNewRoman(0)/m/n/13 Homogeneous 
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 95--95
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Systematic Estimation of Process Noise 
+Covariance Matrix 
+ []
+
+[3]
+Overfull \hbox (2.84354pt too wide) in paragraph at lines 112--112
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 In-Situ Estimation of Gyroscope Measure
+ment Noise Covariance 
+ []
+
+
+Overfull \hbox (15.46588pt too wide) in paragraph at lines 142--142
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Comparative Diagnostic Analysis: Fusion
+ vs. Predict-Only 
+ []
+
+
+Overfull \hbox (15.46588pt too wide) in paragraph at lines 145--145
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Comparative Diagnostic Analysis: Fusion
+ vs. Predict-Only 
+ []
+
+[4])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [5] (main.lot
+Underfull \hbox (badness 1248) in paragraph at lines 23--23
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Quantitative Trajectory Drift Compariso
+n: Predict-Only vs. 
+ []
+
+
+Overfull \hbox (7.14513pt too wide) in paragraph at lines 24--24
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Comparative Final Terminal State Perfor
+mance: Dead-Reckoning 
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 27--27
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Extended Kalman Filter Symbol Nomenclat
+ure and Matrix 
+ []
+
+)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [6
+
+
+] (main.lof
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/13 Systematic bias along the running direc
+tion, calculated 
+ []
+
+)
+\tf@lof=\write8
+\openout8 = `main.lof'.
+
+ [7
+
+]
+Chapter 1.
+(sections/1.Introduction/1.1.Motivation.tex
+Underfull \hbox (badness 2343) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 method that allows for the fusion of the robot’s ki
+nematic model with
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 measurements from heterogeneous sensors such as enc
+oders, IMUs, and
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 11--12
+[]\TU/TimesNewRoman(0)/m/n/13 This project develops a comprehensive localizatio
+n and navigation
+ []
+
+[1
+
+]
+Underfull \hbox (badness 1629) in paragraph at lines 16--17
+[]\TU/TimesNewRoman(0)/b/n/13 Encoders (Odometry): \TU/TimesNewRoman(0)/m/n/13 
+Provide continuous high-frequency velocity
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 16--17
+\TU/TimesNewRoman(0)/m/n/13 information ($\OT1/cmr/m/n/12 100[]$ \TU/TimesNewRo
+man(0)/m/n/13 in this system) independent of environmental
+ []
+
+
+Overfull \hbox (8.95418pt too wide) in paragraph at lines 24--25
+[]\TU/TimesNewRoman(0)/m/n/13 Precise, real-time localization is a fundamental 
+prerequisite for autonomous
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/13 mobile robot navigation in indoor environments wher
+e GPS signals are
+ []
+
+
+Overfull \hbox (3.18483pt too wide) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/13 unavailable. For Mecanum-wheeled platforms, full ho
+lonomic mobility-enabling
+ []
+
+
+Overfull \hbox (11.6392pt too wide) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/13 odometry (dead reckoning) accumulates estimation er
+rors rapidly and unboundedly
+ []
+
+) (sections/1.Introduction/1.2. Related_work.tex
+Underfull \hbox (badness 6204) in paragraph at lines 26--1
+[]\TU/TimesNewRoman(0)/m/n/13 Visual landmarks (ArUco markers) mitigate cumulat
+ive drift by
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 26--1
+\TU/TimesNewRoman(0)/m/n/13 occlusions or when markers exit the camera’s field 
+of view. The core
+ []
+
+[2]
+Underfull \hbox (badness 1365) in paragraph at lines 5--6
+\TU/TimesNewRoman(0)/m/n/13 application of an Extended Kalman Filter (EKF) to f
+use data from
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 5--6
+\TU/TimesNewRoman(0)/m/n/13 vision provides accurate but intermittent global po
+sitioning. Their
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 6--7
+\TU/TimesNewRoman(0)/m/n/13 autonomous vehicles fusing vision, odometry and IMU
+ data.” This
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 6--7
+\TU/TimesNewRoman(0)/m/n/13 two cascaded EKF filters. The first filter processe
+s high-frequency
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 8--9
+\TU/TimesNewRoman(0)/m/n/13 on addressing the wheel-slip problem inherent in Me
+canum-wheeled
+ []
+
+[3]) (sections/1.Introduction/1.3.Scope.tex
+Overfull \hbox (23.1467pt too wide) in paragraph at lines 4--5
+[]\TU/TimesNewRoman(0)/b/n/13 Objective 1: \TU/TimesNewRoman(0)/m/n/13 Develop 
+real-time control firmware on the ESP32 microcontroller
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 4--5
+\TU/TimesNewRoman(0)/m/n/13 ensuring stable reading of encoders and the IMU, an
+d executing a
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 5--6
+[]\TU/TimesNewRoman(0)/b/n/13 Objective 2: \TU/TimesNewRoman(0)/m/n/13 Implemen
+t three-state Extended Kalman Filter (EKF)
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 5--6
+\TU/TimesNewRoman(0)/m/n/13 matrices determined through methodological experime
+nts, and verify
+ []
+
+[4]) (sections/1.Introduction/1.4.Thesis-structure.tex
+Underfull \hbox (badness 2237) in paragraph at lines 6--8
+[]\TU/TimesNewRoman(0)/b/n/13 Chapter 2 – Theoretical Background \TU/TimesNewRo
+man(0)/m/n/13 provides the mathematical
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 6--8
+\TU/TimesNewRoman(0)/m/n/13 foundation necessary for the entire system: Mecanum
+ robot kinematics
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 6--8
+\TU/TimesNewRoman(0)/m/n/13 the $\OML/cmm/m/it/12 Q$ \TU/TimesNewRoman(0)/m/n/1
+3 matrix from random walk and $\OML/cmm/m/it/12 R[]$ \TU/TimesNewRoman(0)/m/n/1
+3 from first difference variance,
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 6--8
+\TU/TimesNewRoman(0)/m/n/13 (Mecanum-wheeled robot, ESP32, L298N motor driver, 
+IMU MPU-6050,
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/b/n/13 Chapter 4 – Software Design \TU/TimesNewRoman(0)/
+m/n/13 details the implemented algorithms:
+ []
+
+) [5]
+Chapter 2.
+(sections/2.Theoretical_background/2.1. Robot_Mecanum_Holonomic.tex
+Underfull \hbox (badness 1308) in paragraph at lines 6--7
+\TU/TimesNewRoman(0)/m/n/13 (FL) and Rear-Right (RR) wheels having rollers angl
+ed in one direction,
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 6--7
+\TU/TimesNewRoman(0)/m/n/13 while the Front-Right (FR) and Rear-Left (RL) wheel
+s are angled in the
+ []
+
+[6
+
+]
+Overfull \hbox (31.74406pt too wide) in paragraph at lines 21--22
+\TU/TimesNewRoman(0)/m/n/13 The wheel ordering throughout the entire system is 
+$\OT1/cmr/m/n/12 [[] = 0\OML/cmm/m/it/12 ; [] \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/
+12 ; [] \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 ; [] \OT1/cmr/m/n/12 = 3]$\TU/Times
+NewRoman(0)/m/n/13 ,
+ []
+
+File: images/images/mecanum_kinematic.png Graphic file (type bmp)
+<images/images/mecanum_kinematic.png>
+[7]
+Overfull \hbox (1.7386pt too wide) in paragraph at lines 47--49
+\TU/TimesNewRoman(0)/m/n/13 With $[] \OT1/cmr/m/n/12 = 4\OML/cmm/m/it/12 ; \OT1
+/cmr/m/n/12 532[]$ \TU/TimesNewRoman(0)/m/n/13 ($\OT1/cmr/m/n/12 = 11[] \OMS/cm
+sy/m/n/12 ^^B \OT1/cmr/m/n/12 4[] \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 103[]$\T
+U/TimesNewRoman(0)/m/n/13 ).
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 47--49
+\TU/TimesNewRoman(0)/m/n/13 The robot velocity is calculated using the pseudo-i
+nverse of the inverse
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+)
+(sections/2.Theoretical_background/2.2.ArucoMarkerDetectionandPoseEstimation.te
+x [8]
+Underfull \hbox (badness 1281) in paragraph at lines 13--15
+\TU/TimesNewRoman(0)/m/n/13 implemented using Zhang’s method based on multiple 
+views of a planar
+ []
+
+[9]) (sections/2.Theoretical_background/2.3.IMU_MPU6050.tex)
+(sections/2.Theoretical_background/2.4. Extended_Kalman_filter.tex
+Underfull \hbox (badness 1226) in paragraph at lines 15--1
+[]\TU/TimesNewRoman(0)/m/n/13 Due to the persistent presence and slow drift of 
+the bias term $\OML/cmm/m/it/12 b[]$\TU/TimesNewRoman(0)/m/n/13 ,
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 15--1
+\TU/TimesNewRoman(0)/m/n/13 error accumulation (gyro drift) unless periodically
+ corrected. Within the
+ []
+
+[10]
+Underfull \hbox (badness 1052) in paragraph at lines 6--7
+[]\TU/TimesNewRoman(0)/m/n/13 A non-linear dynamic system in discrete time is d
+escribed by two
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 24--25
+[]$[][]\OML/cmm/m/it/12 ; [][]$\TU/TimesNewRoman(0)/m/n/13 : Process and measur
+ement noise, assumed to be zero-mean
+ []
+
+[11]
+Underfull \hbox (badness 1509) in paragraph at lines 64--65
+[]\TU/TimesNewRoman(0)/m/n/13 When a sensor measurement (such as an Aruco marke
+r detection)
+ []
+
+[12]) (sections/2.Theoretical_background/2.4.Matrix_Q_and_R.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 5--6
+\TU/TimesNewRoman(0)/m/n/13 from system dynamic unmodeled phenomena and unmeasu
+rable external
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 28--29
+[]\TU/TimesNewRoman(0)/m/n/13 For odometry estimation relying on Mecanum wheel 
+encoders, the
+ []
+
+[13]
+Underfull \hbox (badness 1292) in paragraph at lines 30--31
+\TU/TimesNewRoman(0)/m/n/13 cause inherently unstable friction forces. Under sl
+ippage, encoders
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 30--31
+\TU/TimesNewRoman(0)/m/n/13 significant discrepancies between idealized kinemat
+ics and physical
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 35--35
+|[]\TU/TimesNewRoman(0)/b/n/13 Structure and Tuning Methodology of Matrix $\OML
+/cmm/m/it/12 Q$ \TU/TimesNewRoman(0)/b/n/13 for Mecanum
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 35.
+
+[14]
+Underfull \hbox (badness 2680) in paragraph at lines 60--60
+|[]\TU/TimesNewRoman(0)/b/n/13 Role of the Measurement Noise Covariance Matrix 
+$\OML/cmm/m/it/12 R$ \TU/TimesNewRoman(0)/b/n/13 in the
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 60.
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 63--64
+\TU/TimesNewRoman(0)/m/n/13 known as \TU/TimesNewRoman(0)/m/it/13 heteroscedast
+icity \TU/TimesNewRoman(0)/m/n/13 (non-homogeneous variance), as opposed to
+ []
+
+
+LaTeX Warning: Citation 'popescu2017' on page 15 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'pentenrieder2006' on page 15 undefined on input line 6
+5.
+
+
+LaTeX Warning: Citation 'adamek2023' on page 15 undefined on input line 65.
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 65--66
+[]\TU/TimesNewRoman(0)/m/n/13 , []] have reported the phenomenon of \TU/TimesNe
+wRoman(0)/m/it/13 pose
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 65--66
+\TU/TimesNewRoman(0)/m/n/13 plane approaches parallelism with the camera’s imag
+e plane (near-normal
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 67--68
+\TU/TimesNewRoman(0)/m/n/13 Consequently, an adaptive noise model for $\OML/cmm
+/m/it/12 R$ \TU/TimesNewRoman(0)/m/n/13 is required, continuously
+ []
+
+[15]) [16]
+Chapter 3.
+(sections/3. Hardware design/3.1. Overall_System_Architecture.tex
+Underfull \hbox (badness 2245) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/13 four-wheel velocity PI controller, and outputting P
+WM signals via
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/13 the LEDC module. This layer operates independently 
+of the PC’s
+ []
+
+
+Overfull \hbox (17.79633pt too wide) in paragraph at lines 8--9
+[]\TU/TimesNewRoman(0)/b/n/13 Upper Layer – PC (High-level Processing Layer): \
+TU/TimesNewRoman(0)/m/n/13 Handles computationally
+ []
+
+File: images/images/overall_system.png Graphic file (type bmp)
+<images/images/overall_system.png>
+[17
+
+]
+Overfull \hbox (13.5805pt too wide) in paragraph at lines 25--26
+\TU/TimesNewRoman(0)/m/n/13 microcontroller and transmits sensor telemetry data
+ ($[]\OML/cmm/m/it/12 ; []$\TU/TimesNewRoman(0)/m/n/13 )
+ []
+
+[18]
+Underfull \hbox (badness 6094) in paragraph at lines 27--28
+[]\TU/TimesNewRoman(0)/b/n/13 Sensor Feedback Block (Wheel Encoders + MPU-6050 
+IMU):
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 27--28
+\TU/TimesNewRoman(0)/m/n/13 Measures individual wheel rotational speeds and the
+ z-axis angular
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 29--30
+[]\TU/TimesNewRoman(0)/b/n/13 Power Distribution Unit ($\OT1/cmr/m/n/12 3[]1865
+0[]$\TU/TimesNewRoman(0)/b/n/13 ): \TU/TimesNewRoman(0)/m/n/13 Delivers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\TU/TimesNewRoman(0)/b/n/13 HW
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\TU/TimesNewRoman(0)/m/n/13 Forward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/13 Reverse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\TU/TimesNewRoman(0)/m/n/13 Forward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\TU/TimesNewRoman(0)/m/n/13 Reverse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\TU/TimesNewRoman(0)/m/n/13 Forward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/13 Reverse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TimesNewRoman(0)/m/n/13 Forward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\TU/TimesNewRoman(0)/m/n/13 Reverse
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 56--56
+[]|\TU/TimesNewRoman(0)/m/n/13 PCNT unit
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 57--57
+[]|\TU/TimesNewRoman(0)/m/n/13 PCNT unit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/13 Encoder
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/13 PCNT unit
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 59--59
+[]|\TU/TimesNewRoman(0)/m/n/13 PCNT unit
+ []
+
+
+Overfull \hbox (7.41985pt too wide) in paragraph at lines 45--64
+ [][] 
+ []
+
+) (sections/3. Hardware design/3.2. Mecanum_Robot.tex [19]
+Underfull \hbox (badness 1297) in paragraph at lines 4--5
+[]\TU/TimesNewRoman(0)/m/n/13 The robot is constructed on a rectangular aluminu
+m profile frame,
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\TU/TimesNewRoman(0)/m/n/13 Linear/angular velocity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\TU/TimesNewRoman(0)/m/n/13 Half wheelbase
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 17--17
+[]|\TU/TimesNewRoman(0)/m/n/13 Coefficient in kinematics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\TU/TimesNewRoman(0)/m/n/13 Half track width
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 18--18
+[]|\TU/TimesNewRoman(0)/m/n/13 Coefficient in kinematics
+ []
+
+
+Overfull \hbox (39.55798pt too wide) in paragraph at lines 13--23
+ [][] 
+ []
+
+File: images/images/Esp32_devkit_C.png Graphic file (type bmp)
+<images/images/Esp32_devkit_C.png>
+[21]
+Overfull \hbox (6.5834pt too wide) in paragraph at lines 42--43
+[]\TU/TimesNewRoman(0)/b/n/13 Hardware I2C at 400 kHz: \TU/TimesNewRoman(0)/m/n
+/13 Provides stable and high-speed communication
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 42--43
+\TU/TimesNewRoman(0)/m/n/13 with the MPU-6050 IMU without the need for processo
+r-intensive
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 57--57
+[]|\TU/TimesNewRoman(0)/m/n/13 Supplied by 3S 11.1 V LiPo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\TU/TimesNewRoman(0)/m/n/13 Actual speed (via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\TU/TimesNewRoman(0)/m/n/13 Encoder PPR (motor
+ []
+
+
+Overfull \hbox (13.67374pt too wide) in paragraph at lines 54--67
+ [][] 
+ []
+
+[22]
+File: images/images/motor_driver_L298n.png Graphic file (type bmp)
+<images/images/motor_driver_L298n.png>
+ [23]
+Overfull \hbox (25.82918pt too wide) in paragraph at lines 90--91
+\TU/TimesNewRoman(0)/m/n/13 selected. This falls within an efficient operating 
+range for the L298N-preventing
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 90--91
+\TU/TimesNewRoman(0)/m/n/13 overheating caused by excessively high-frequency sw
+itching (e.g.,
+ []
+
+
+Overfull \hbox (8.87904pt too wide) in paragraph at lines 90--91
+\OML/cmm/m/it/12 > \OT1/cmr/m/n/12 20[]$\TU/TimesNewRoman(0)/m/n/13 ) while ade
+quately managing electromagnetic noise considerations. 
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/13 (6-DOF) architecture-incorporating a 3-axis acceler
+ometer and a 3-axis
+ []
+
+File: images/images/IMU_MPU6050.png Graphic file (type bmp)
+<images/images/IMU_MPU6050.png>
+[24]
+Underfull \hbox (badness 3428) in paragraph at lines 126--126
+[]|\TU/lmtt/m/n/13 0x68 \TU/TimesNewRoman(0)/m/n/13 ($[] \OMS/cmsy/m/n/12 ! []$
+\TU/TimesNewRoman(0)/m/n/13 ) or \TU/lmtt/m/n/13 0x69
+ []
+
+
+Overfull \hbox (23.73654pt too wide) in paragraph at lines 126--126
+[]|$\OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 250[]/[]\OML/cmm/m/it/12 ;  \OMS/cmsy/m
+/n/12 ^^F\OT1/cmr/m/n/12 500[]/[]\OML/cmm/m/it/12 ;  \OMS/cmsy/m/n/12 ^^F\OT1/c
+mr/m/n/12 1000[]/[]\OML/cmm/m/it/12 ;  \OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 2000
+[]/[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 375[][]3\OML/cmm/m/it/12
+ :\OT1/cmr/m/n/12 46[]$ \TU/TimesNewRoman(0)/m/n/13 ($\OT1/cmr/m/n/12 3\OML/cmm
+/m/it/12 :\OT1/cmr/m/n/12 3[]$ \TU/TimesNewRoman(0)/m/n/13 logic
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/it/13 [Config 2 ($\OT1/cmr/m/n/12 21[]$ \TU/TimesNewR
+oman(0)/m/it/13 Bandwidth, $\OT1/cmr/m/n/12 2[]$
+ []
+
+[25] [26]
+File: images/images/webcam.jpg Graphic file (type bmp)
+<images/images/webcam.jpg>
+) (sections/3. Hardware design/3.4. Esp32.tex [27]
+Overfull \hbox (13.43369pt too wide) in paragraph at lines 27--28
+[]\TU/TimesNewRoman(0)/m/n/13 The control architecture combines Feedforward (FF
+) for static compensation
+ []
+
+
+Overfull \hbox (35.10745pt too wide) in paragraph at lines 36--37
+[]\TU/TimesNewRoman(0)/b/n/13 PI Component: \TU/TimesNewRoman(0)/m/n/13 Designe
+d to eliminate the steady-state error $\OML/cmm/m/it/12 e[]\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 k\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 ![] \OMS/cmsy/m/n/12 ^^@ []
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 )$\TU/TimesNewRoman(0)/m/n/1
+3 . 
+ []
+
+[28]) (sections/3. Hardware design/3.5.Marker_placement.tex
+Underfull \hbox (badness 1997) in paragraph at lines 12--13
+\TU/TimesNewRoman(0)/m/n/13 spatial intervals. Global landmark coordinates $\OT
+1/cmr/m/n/12 (\OML/cmm/m/it/12 X[]; Y[]; ^^R[]\OT1/cmr/m/n/12 )$ \TU/TimesNewRo
+man(0)/m/n/13 are logged
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 12--13
+\TU/TimesNewRoman(0)/m/n/13 automatically via an offline calibration script rel
+ative to the initial robot
+ []
+
+
+Overfull \hbox (7.05206pt too wide) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/b/n/13 Engineering
+ []
+
+
+Overfull \hbox (20.02032pt too wide) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/m/n/13 Accommodates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 physical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 site
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/m/n/13 Maintains
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 image
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 resolution;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 avoids
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 FOV
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/m/n/13 Suppresses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 perspective
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 distortion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 & pose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/m/n/13 Prevents
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 3D pose
+ []
+
+
+Overfull \hbox (0.52032pt too wide) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 degradation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 & corner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\TU/TimesNewRoman(0)/m/n/13 Enables
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 periodic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\TU/TimesNewRoman(0)/m/n/13 EKF drift
+ []
+
+[29]
+Underfull \hbox (badness 3302) in paragraph at lines 39--40
+[]\TU/TimesNewRoman(0)/b/n/13 Coordinate Frame Conversion: \TU/TimesNewRoman(0)
+/m/n/13 Raw local measurements in the
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 39--40
+\TU/TimesNewRoman(0)/m/n/13 Camera Optical Frame $\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 x[]; z[]\OT1/cmr/m/n/12 )$ \TU/TimesNewRoman(0)/m/n/13 are mapped to the R
+OS World
+ []
+
+[30]
+Underfull \hbox (badness 2005) in paragraph at lines 46--47
+[]\TU/TimesNewRoman(0)/b/n/13 Temporal Noise Filtering and Circular Averaging: 
+\TU/TimesNewRoman(0)/m/n/13 To eliminate
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 46--47
+\TU/TimesNewRoman(0)/m/n/13 sub-pixel corner detection noise and quantization j
+itter during static
+ []
+
+File: images/images/Marker_layout.png Graphic file (type bmp)
+<images/images/Marker_layout.png>
+) [31]
+Chapter 4.
+(sections/4. Software design/4.1. Communication_esp32_computer.tex
+Underfull \hbox (badness 1354) in paragraph at lines 2--3
+[]\TU/TimesNewRoman(0)/m/n/13 The system software is organized into two distinc
+t layers that are
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 2--3
+\TU/TimesNewRoman(0)/m/n/13 completely independent in terms of programming lang
+uage, execution
+ []
+
+File: images/images/overall_structure.png Graphic file (type bmp)
+<images/images/overall_structure.png>
+) (sections/4. Software design/camera_calibration.tex
+
+LaTeX Warning: Citation 'zhang2000' on page 32 undefined on input line 12.
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 12--13
+\TU/TimesNewRoman(0)/m/n/13 problem during ArUco marker pose estimation. The ca
+libration pipeline
+ []
+
+[32
+
+]
+Underfull \hbox (badness 1603) in paragraph at lines 17--18
+[]\TU/TimesNewRoman(0)/m/n/13 The empirical setup and software architecture for
+ calibration were
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 21--22
+\TU/TimesNewRoman(0)/m/n/13 under diverse tilt angles, distances, and grid orie
+ntations across the
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 44--45
+[]\TU/TimesNewRoman(0)/m/n/13 Table [][]4.1[][] provides a quantitative assessm
+ent of the key estimated
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\TU/TimesNewRoman(0)/m/n/13 benchmark for mobile
+ []
+
+) (sections/4. Software design/Aruco_marker_detection.tex
+Underfull \hbox (badness 1675) in paragraph at lines 65--1
+[]\TU/TimesNewRoman(0)/m/n/13 The calibration yields an overall mean RMS reproj
+ection error of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Outer physical side
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 length of ArUco
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Longitudinal offset
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 from camera lens to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Camera intrinsic
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 matrix and distortion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Global pose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Relative yaw angle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 between camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 optical axis and
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Transformed absolute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Computed absolute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\TU/TimesNewRoman(0)/m/n/13 Measurement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 observation vector
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\TU/TimesNewRoman(0)/m/n/13 feeding the EKF
+ []
+
+[34]
+File: images/images/Aruco_marker_detection.png Graphic file (type bmp)
+<images/images/Aruco_marker_detection.png>
+
+Underfull \hbox (badness 4779) in paragraph at lines 42--43
+[]\TU/TimesNewRoman(0)/m/n/13 The Stage A1 execution pipeline determines the re
+lative spatial
+ []
+
+[35]
+Underfull \hbox (badness 2707) in paragraph at lines 45--46
+\TU/TimesNewRoman(0)/m/n/13 and executes \TU/lmtt/m/n/13 cv2.aruco.ArucoDetecto
+r \TU/TimesNewRoman(0)/m/n/13 using the \TU/lmtt/m/n/13 DICT_4X4_100
+ []
+
+
+Overfull \hbox (58.33742pt too wide) in paragraph at lines 46--47
+\TU/TimesNewRoman(0)/m/n/13 problem using \TU/lmtt/m/n/13 cv2.solvePnPGeneric \
+TU/TimesNewRoman(0)/m/n/13 configured with the \TU/lmtt/m/n/13 SOLVEPNP_IPPE_SQ
+UARE
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 58.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 58.
+
+[36]
+Underfull \hbox (badness 1867) in paragraph at lines 90--91
+[]\TU/TimesNewRoman(0)/m/n/13 The resolved absolute coordinates $\OT1/cmr/m/n/1
+2 (\OML/cmm/m/it/12 x[]; y[]; ^^R[]\OT1/cmr/m/n/12 )$ \TU/TimesNewRoman(0)/m/n/
+13 corresponding to the
+ []
+
+)
+(sections/4. Software design/4.5. EKF_Sensor_Fusion – Detailed_Implementation.t
+ex [37]
+Underfull \hbox (badness 6526) in paragraph at lines 19--20
+[]\TU/TimesNewRoman(0)/m/n/13 The non-linear system dynamics and exteroceptive 
+measurement
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 23--25
+\TU/TimesNewRoman(0)/m/n/13 where $\OML/cmm/m/it/12 w[]$ \TU/TimesNewRoman(0)/m
+/n/13 and $\OML/cmm/m/it/12 v[]$ \TU/TimesNewRoman(0)/m/n/13 denote mutually un
+correlated zero-mean white Gaussian
+ []
+
+[38] [39]
+Underfull \hbox (badness 3407) in paragraph at lines 99--100
+[]\TU/TimesNewRoman(0)/m/n/13 The complete prior state and covariance propagati
+on outputs are
+ []
+
+
+Overfull \hbox (4.93608pt too wide) in paragraph at lines 109--110
+\TU/TimesNewRoman(0)/m/n/13 (REP-105) prior to filter injection. Given global m
+arker coordinates $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X[]; Y[]; ^^R[]\OT1/cmr/m/
+n/12 )$
+ []
+
+[40] [41]
+Underfull \hbox (badness 1681) in paragraph at lines 175--175
+|[]\TU/TimesNewRoman(0)/b/n/13 Normalized Innovation Squared (NIS) Verification
+ and Outlier
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 185--187
+\TU/TimesNewRoman(0)/m/n/13 where the measurement innovation vector $\OML/cmm/m
+/it/12 ^^W[] \OMS/cmsy/m/n/12 2 \U/msb/m/n/13 R[]$ \TU/TimesNewRoman(0)/m/n/13 
+and the innovation
+ []
+
+
+Overfull \hbox (8.99226pt too wide) in paragraph at lines 199--200
+[]\TU/TimesNewRoman(0)/m/n/13 To safeguard the filter against spurious visual d
+etections, misidentifications,
+ []
+
+) (sections/4. Software design/Q_odometry.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+[42]
+Underfull \hbox (badness 1237) in paragraph at lines 16--18
+\TU/TimesNewRoman(0)/m/n/13 where $\OML/cmm/m/it/12 G[]$ \TU/TimesNewRoman(0)/m
+/n/13 represents the kinematic Jacobian mapping local linear control
+ []
+
+[43]
+Overfull \hbox (20.47667pt too wide) in paragraph at lines 54--55
+\TU/TimesNewRoman(0)/m/n/13 ($\OML/cmm/m/it/12 ^^N; ^^[[]$\TU/TimesNewRoman(0)/
+m/n/13 ), the experimental identification problem reduces strictly to a single-
+variable
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 57--58
+[] []\TU/TimesNewRoman(0)/b/n/13 Physical Rationale:[] \TU/TimesNewRoman(0)/m/n
+/13 Throughout the experimental trials, the trajectory
+ []
+
+[44]
+Overfull \hbox (0.48343pt too wide) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(0)/m/n/13 The proposed calibration methodology bridges two 
+established paradigms
+ []
+
+
+LaTeX Warning: Citation 'han2010' on page 45 undefined on input line 82.
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 82--83
+\TU/TimesNewRoman(0)/m/n/13 platforms by evaluating velocity-dependent slip and
+ bearing friction.
+ []
+
+
+LaTeX Warning: Citation 'maddahi2013' on page 45 undefined on input line 83.
+
+
+Overfull \hbox (11.16608pt too wide) in paragraph at lines 83--84
+[]\TU/TimesNewRoman(0)/b/n/13 Maddahi et al. (2013) [[]]: \TU/TimesNewRoman(0)/
+m/n/13 Calibrated 3-wheel omnidirectional
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 92--93
+[]\TU/TimesNewRoman(0)/b/n/13 Ground-Truth Logging: \TU/TimesNewRoman(0)/m/n/13
+ Measure final along-track spatial error
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 93--94
+[]\TU/TimesNewRoman(0)/b/n/13 Systematic Bias Removal: \TU/TimesNewRoman(0)/m/n
+/13 Calculate systemic mean bias $[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 v; []\OT1
+/cmr/m/n/12 )$
+ []
+
+[45]
+Underfull \hbox (badness 1259) in paragraph at lines 119--121
+\TU/TimesNewRoman(0)/m/n/13 where the yaw rate noise parameter $\OML/cmm/m/it/1
+2 q[]$ \TU/TimesNewRoman(0)/m/n/13 selects between calibrated IMU
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 119--121
+\TU/TimesNewRoman(0)/m/n/13 gyroscope variance ($\OML/cmm/m/it/12 R[]$\TU/Times
+NewRoman(0)/m/n/13 ) when IMU data is valid, or falls back to an
+ []
+
+File: images/images/velocity_regression.png Graphic file (type bmp)
+<images/images/velocity_regression.png>
+[46]
+File: images/images/bias_system.png Graphic file (type bmp)
+<images/images/bias_system.png>
+
+Underfull \hbox (badness 3098) in paragraph at lines 154--155
+\TU/TimesNewRoman(0)/m/n/13 identified as a structural mechanical asymmetry-spe
+cifically non-uniform
+ []
+
+[47]
+Underfull \hbox (badness 1082) in paragraph at lines 158--159
+\TU/TimesNewRoman(0)/m/n/13 error ($[]$) prior to computing the residuals utili
+zed in the Ordinary
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 161--162
+\TU/TimesNewRoman(0)/m/n/13 Omitting this systematic detrending step, particula
+rly in the presence of
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 161--162
+\TU/TimesNewRoman(0)/m/n/13 substantial rotational bias on the $\OML/cmm/m/it/1
+2 ![]$ \TU/TimesNewRoman(0)/m/n/13 channel, would erroneously conflate
+ []
+
+
+Overfull \hbox (14.59404pt too wide) in paragraph at lines 170--171
+[]\TU/TimesNewRoman(0)/m/n/13 Applying Ordinary Least Squares (OLS) regression 
+across the multi-velocity
+ []
+
+
+Overfull \hbox (5.54558pt too wide) in paragraph at lines 185--185
+ []|$\OT1/cmr/m/n/12 0[]$| 
+ []
+
+
+Overfull \hbox (7.52388pt too wide) in paragraph at lines 185--185
+ []|$\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 258 \OMS/cmsy/m/n/12 ^^
+B \OT1/cmr/m/n/12 10[]$| 
+ []
+
+
+Overfull \hbox (5.54558pt too wide) in paragraph at lines 185--185
+ []|$\OT1/cmr/m/n/12 0[]$| 
+ []
+
+[48]
+Underfull \hbox (badness 1895) in paragraph at lines 193--194
+[]\TU/TimesNewRoman(0)/m/n/13 Consequently, these identified values serve as in
+itial configuration
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 199--200
+[]\TU/TimesNewRoman(0)/m/n/13 The current experimental identification procedure
+ presents several
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 199--200
+\TU/TimesNewRoman(0)/m/n/13 methodological and statistical limitations that mus
+t be considered when
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 203--204
+[]\TU/TimesNewRoman(0)/b/n/13 Statistical Degrees of Freedom Constraint ($[] \O
+T1/cmr/m/n/12 = 1\OML/cmm/m/it/12 ; n \OT1/cmr/m/n/12 = 3$\TU/TimesNewRoman(0)/
+b/n/13 ):
+ []
+
+[49]) (sections/4. Software design/R_IMU.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+[50]
+Underfull \hbox (badness 2189) in paragraph at lines 31--33
+\TU/TimesNewRoman(0)/m/n/13 Assuming temporal independence across noise samples
+ $\OML/cmm/m/it/12 n[]$ \TU/TimesNewRoman(0)/m/n/13 with variance
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 41--43
+\TU/TimesNewRoman(0)/m/n/13 This first-difference formulation is mathematically
+ invariant to linear bias
+ []
+
+
+Overfull \hbox (22.34224pt too wide) in paragraph at lines 41--43
+\TU/TimesNewRoman(0)/m/n/13 without relying on static bias subtraction or sampl
+e mean variance calculations—both
+ []
+
+
+Overfull \hbox (28.29068pt too wide) in paragraph at lines 51--61
+ [][] 
+ []
+
+
+Overfull \hbox (10.78114pt too wide) in paragraph at lines 65--66
+\TU/TimesNewRoman(0)/m/n/13 rotational velocity by design, eliminating the need
+ for external high-precision
+ []
+
+
+Overfull \hbox (2.70605pt too wide) in paragraph at lines 66--67
+[]\TU/TimesNewRoman(0)/b/n/13 Intra-Segment Differencing Only: \TU/TimesNewRoma
+n(0)/m/n/13 First-differences are strictly computed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\TU/TimesNewRoman(0)/m/n/13 between segments (stop-and-reverse events) represen
+t macro-scale
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 67--68
+[]\TU/TimesNewRoman(0)/b/n/13 Segment Concatenation and Directional Alternation
+: \TU/TimesNewRoman(0)/m/n/13 Differenced
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 67--68
+\TU/TimesNewRoman(0)/m/n/13 estimator while averaging out directional H-bridge 
+current switching
+ []
+
+[51]
+Overfull \hbox (7.43143pt too wide) in paragraph at lines 74--75
+[]\TU/TimesNewRoman(0)/m/n/13 Apply first-order differencing $[]\OT1/cmr/m/n/12
+ ()$ \TU/TimesNewRoman(0)/m/n/13 independently per segment, concatenate
+ []
+
+
+Overfull \hbox (32.50323pt too wide) in paragraph at lines 87--98
+ [][] 
+ []
+
+[52]
+Underfull \hbox (badness 6078) in paragraph at lines 105--106
+[]\TU/TimesNewRoman(0)/b/n/13 Single-Point Allan Variance Limits: \TU/TimesNewR
+oman(0)/m/n/13 Evaluating Allan variance
+ []
+
+) (sections/4. Software design/R_aruco_marker.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+LaTeX Warning: Citation 'zheng2018' on page 53 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'adamek2023' on page 53 undefined on input line 10.
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 10--11
+\TU/TimesNewRoman(0)/m/n/13 Parameters estimated via Levenberg–Marquardt optimi
+zation capture
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 10--11
+\TU/TimesNewRoman(0)/m/n/13 pose ambiguity effectively, outperforming static $\
+OML/cmm/m/it/12 R$ \TU/TimesNewRoman(0)/m/n/13 models in ROS
+ []
+
+
+LaTeX Warning: Citation 'adamek2023' on page 53 undefined on input line 16.
+
+[53]
+
+LaTeX Warning: Citation 'zheng2018' on page 54 undefined on input line 17.
+
+
+Overfull \hbox (4.32867pt too wide) in paragraph at lines 17--18
+[]\TU/TimesNewRoman(0)/b/n/13 Noise Model Formulation: \TU/TimesNewRoman(0)/m/n
+/13 A zero-intercept linear relationship ($\OML/cmm/m/it/12 ^^[ \OT1/cmr/m/n/12
+ = \OML/cmm/m/it/12 k \OMS/cmsy/m/n/12 ^^A j\OML/cmm/m/it/12 ^^\\OMS/cmsy/m/n/1
+2 j$\TU/TimesNewRoman(0)/m/n/13 )
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 47--48
+[]\TU/TimesNewRoman(0)/m/n/13 Raw visual observations $\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 x[]; z[]; [][]\OT1/cmr/m/n/12 )$ \TU/TimesNewRoman(0)/m/n/13 are refe
+renced in the
+ []
+
+[54]
+Underfull \hbox (badness 1924) in paragraph at lines 58--59
+[] []\TU/TimesNewRoman(0)/b/n/13 Stage 2 (Camera Offset Compensation):[] \TU/Ti
+mesNewRoman(0)/m/n/13 Correcting for camera offset
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 69--70
+[]\TU/TimesNewRoman(0)/m/n/13 Standard deviations are modeled proportional to o
+bserved local
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 89--90
+[]\TU/TimesNewRoman(0)/m/n/13 Propagating $\OML/cmm/m/it/12 R[]$ \TU/TimesNewRo
+man(0)/m/n/13 to global map coordinates requires linearizing
+ []
+
+
+Overfull \hbox (11.71024pt too wide) detected at line 98
+[][][]\OML/cmm/m/it/12 J[] \OT1/cmr/m/n/12 = [] = []
+ []
+
+[55]
+Underfull \hbox (badness 3612) in paragraph at lines 109--110
+[]\TU/TimesNewRoman(0)/m/n/13 The transformed global measurement noise covarian
+ce matrix $\OML/cmm/m/it/12 R[]$
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 118--119
+[]\TU/TimesNewRoman(0)/m/n/13 Empirical statistics collected across spatial gri
+ds are detailed in
+ []
+
+
+Overfull \hbox (20.94975pt too wide) in paragraph at lines 158--169
+ [][] 
+ []
+
+File: images/images/R_aruco.png Graphic file (type bmp)
+<images/images/R_aruco.png>
+[56] [57]
+Underfull \hbox (badness 1762) in paragraph at lines 194--195
+[] []\TU/TimesNewRoman(0)/b/n/13 Plot (b) - Orientation Noise Standard Deviatio
+n ($\OML/cmm/m/it/12 ^^[[]$ \TU/TimesNewRoman(0)/b/n/13 vs. $[][]$):[]
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 194--195
+\TU/TimesNewRoman(0)/m/n/13 At the station $[][] \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/
+m/n/12 15[]$\TU/TimesNewRoman(0)/m/n/13 , $\OML/cmm/m/it/12 ^^[[]$ \TU/TimesNew
+Roman(0)/m/n/13 drops to near-zero absolute values
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 194--195
+\TU/TimesNewRoman(0)/m/n/13 ($\OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 10[][]$\TU/T
+imesNewRoman(0)/m/n/13 ), representing a physical anomaly previously analyzed i
+n
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 197--198
+\TU/TimesNewRoman(0)/b/n/13 Alternative Model Hypothesis):[] \TU/TimesNewRoman(
+0)/m/n/13 The physical rationale for formulating
+ []
+
+) [58]
+Chapter 5.
+(sections/5. Experiments and Evaluation/Experimental_setup.tex
+Underfull \hbox (badness 1924) in paragraph at lines 8--9
+\TU/TimesNewRoman(0)/m/n/13 because the true final pose coincides with the init
+ial starting pose, any
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 14--15
+[]\TU/TimesNewRoman(0)/b/n/13 Predict-Only Mode (Pure Dead Reckoning): \TU/Time
+sNewRoman(0)/m/n/13 The filter executes
+ []
+
+[59
+
+]
+Overfull \hbox (23.31497pt too wide) in alignment at lines 33--33
+[][][][][]
+ []
+
+
+Overfull \hbox (6.01213pt too wide) in paragraph at lines 45--55
+ [][] 
+ []
+
+File: images/images/mecanum_robot_1.jpg Graphic file (type bmp)
+<images/images/mecanum_robot_1.jpg>
+) (sections/5. Experiments and Evaluation/Result_analyse.tex [60]
+Underfull \hbox (badness 4954) in paragraph at lines 28--29
+[]\TU/TimesNewRoman(0)/b/n/13 Heading Correction Efficacy: \TU/TimesNewRoman(0)
+/m/n/13 The integration of ArUco visual
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 28--29
+\TU/TimesNewRoman(0)/m/n/13 observations yields a substantial increase in orien
+tation estimation,
+ []
+
+[61]
+File: images/images/Square_trajectory_Compare.png Graphic file (type bmp)
+<images/images/Square_trajectory_Compare.png>
+
+Underfull \hbox (badness 3826) in paragraph at lines 44--45
+\TU/TimesNewRoman(0)/m/n/13 positioning estimates derived directly from the mon
+ocular camera,
+ []
+
+[62]
+Underfull \hbox (badness 1515) in paragraph at lines 45--46
+[]\TU/TimesNewRoman(0)/b/n/13 EKF Fused Path (Solid Blue Line): \TU/TimesNewRom
+an(0)/m/n/13 Produces a continuous state
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 45--46
+\TU/TimesNewRoman(0)/m/n/13 estimate that effectively mitigates unbounded odome
+tric drift while
+ []
+
+File: images/images/Uncertainty_square_trajectory.png Graphic file (type bmp)
+<images/images/Uncertainty_square_trajectory.png>
+
+Underfull \hbox (badness 6792) in paragraph at lines 61--62
+\TU/TimesNewRoman(0)/m/n/13 error variance increases monotonically and diverges
+ unboundedly,
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 62--63
+\TU/TimesNewRoman(0)/m/n/13 Governed by EKF gain corrections, estimation uncert
+ainty is tightly
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 63--64
+[]\TU/TimesNewRoman(0)/b/n/13 Active Measurement Regions (Red Shaded Bands): \T
+U/TimesNewRoman(0)/m/n/13 Demarcate
+ []
+
+[63]
+Underfull \hbox (badness 3724) in paragraph at lines 67--68
+[] []\TU/TimesNewRoman(0)/b/n/13 Convergence Dynamics During Marker Dropouts:[]
+ \TU/TimesNewRoman(0)/m/n/13 During temporary
+ []
+
+File: images/images/circle_trajectory_compare.png Graphic file (type bmp)
+<images/images/circle_trajectory_compare.png>
+[64]
+File: images/images/Uncertainty_circle_trajectory.png Graphic file (type bmp)
+<images/images/Uncertainty_circle_trajectory.png>
+ [65]
+Overfull \hbox (5.0081pt too wide) in paragraph at lines 113--114
+[]\TU/TimesNewRoman(0)/b/n/13 Dead-Reckoning $\OML/cmm/m/it/12 ^^[[]; ^^[[]$ \T
+U/TimesNewRoman(0)/b/n/13 (Red and Orange Dashed Lines): \TU/TimesNewRoman(0)/m
+/n/13 Demonstrates
+ []
+
+
+Overfull \hbox (0.37094pt too wide) in paragraph at lines 114--115
+[]\TU/TimesNewRoman(0)/b/n/13 Fused $\OML/cmm/m/it/12 ^^[[]; ^^[[]$ \TU/TimesNe
+wRoman(0)/b/n/13 (Dark and Light Blue Solid Lines): \TU/TimesNewRoman(0)/m/n/13
+ Estimation uncertainty
+ []
+
+
+Overfull \hbox (12.9036pt too wide) in paragraph at lines 118--119
+\TU/TimesNewRoman(0)/m/n/13 visual occlusions or temporary marker dropouts (e.g
+., $\OML/cmm/m/it/12 t \OMS/cmsy/m/n/12 2 \OT1/cmr/m/n/12 [5[]\OML/cmm/m/it/12 
+; \OT1/cmr/m/n/12 10[]]$\TU/TimesNewRoman(0)/m/n/13 , $\OML/cmm/m/it/12 t \OMS/
+cmsy/m/n/12 2 \OT1/cmr/m/n/12 [16[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 21[]]$\TU
+/TimesNewRoman(0)/m/n/13 ,
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 118--119
+\TU/TimesNewRoman(0)/m/n/13 the state error covariance is instantaneously quenc
+hed, exhibiting a sharp
+ []
+
+[66]
+Underfull \hbox (badness 2856) in paragraph at lines 127--128
+\TU/TimesNewRoman(0)/m/n/13 on absolute position accuracy is trajectory-depende
+nt: it eliminates the
+ []
+
+) (sections/5. Experiments and Evaluation/summary.tex
+Underfull \hbox (badness 1881) in paragraph at lines 4--5
+\TU/TimesNewRoman(0)/m/n/13 performance of the Mecanum-wheeled mobile robot acr
+oss two complex
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(0)/b/n/13 Physical Limitations of Dead-Reckoning: \TU/Times
+NewRoman(0)/m/n/13 The Mecanum drive
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/13 deformation-characterized by substantial $\OML/cmm/
+m/it/12 Y$\TU/TimesNewRoman(0)/m/n/13 -axis spatial drift along
+ []
+
+[67]
+Underfull \hbox (badness 1533) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/b/n/13 Convergence and Efficacy of EKF Sensor Fusion: \T
+U/TimesNewRoman(0)/m/n/13 Incorporating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 detection completely quenches accumulated kinematic
+ integration
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 drift. The EKF framework preserves accurate traject
+ory contours,
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 11--12
+[]\TU/TimesNewRoman(0)/b/n/13 Asynchronous Multithreaded Processing Efficiency:
+ \TU/TimesNewRoman(0)/m/n/13 The software
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 11--12
+\TU/TimesNewRoman(0)/m/n/13 pipeline achieves optimal real-time execution effic
+iency through an
+ []
+
+) [68]
+Chapter 6.
+(sections/6. Conclusion and future work/6.1. CONCLUSION.tex
+Underfull \hbox (badness 1072) in paragraph at lines 5--6
+\TU/TimesNewRoman(0)/m/n/13 to under $\OT1/cmr/m/n/12 1[]$ \TU/TimesNewRoman(0)
+/m/n/13 at $\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5[]$\TU/TimesNew
+Roman(0)/m/n/13 , only provides position information intermittently,
+ []
+
+
+Overfull \hbox (11.70074pt too wide) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/13 ESP32 microcontroller running dual-core FreeRTOS ha
+ndles all time-deterministic
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/13 procedure for both $\OML/cmm/m/it/12 Q$ \TU/TimesNe
+wRoman(0)/m/n/13 and $\OML/cmm/m/it/12 R$\TU/TimesNewRoman(0)/m/n/13 : the proc
+ess noise $\OML/cmm/m/it/12 Q[]$ \TU/TimesNewRoman(0)/m/n/13 is derived from
+ []
+
+
+Overfull \hbox (2.76013pt too wide) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/m/n/13 The resulting filter was validated on two closed-
+loop reference trajectories,
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 a $\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 0[]$ \TU/TimesNewRoman(0)/m/n/13 square path and a $\OT1/cmr/m/n/12 0\OML/cm
+m/m/it/12 :\OT1/cmr/m/n/12 5[]$ \TU/TimesNewRoman(0)/m/n/13 radius circular pat
+h, each executed in
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 spiral collapse on the circular path, observed unde
+r pure dead-reckoning.
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 Heading estimation improved most clearly, with abso
+lute angular error
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/13 increased by approximately $\OT1/cmr/m/n/12 4\OML/c
+mm/m/it/12 :\OT1/cmr/m/n/12 1\OMS/cmsy/m/n/12 ^^B$ \TU/TimesNewRoman(0)/m/n/13 
+on the square trajectory. Overall 2D
+ []
+
+[69
+
+]) (sections/6. Conclusion and future work/6.2.Future_work.tex
+Underfull \hbox (badness 4120) in paragraph at lines 11--1
+[]\TU/TimesNewRoman(0)/m/n/13 Taken together, these results demonstrate that a 
+low-cost sensor
+ []
+
+
+Overfull \hbox (11.6996pt too wide) in paragraph at lines 11--12
+[]\TU/TimesNewRoman(0)/b/n/13 Normalized Estimation Error Squared (NEES) Valida
+tion: \TU/TimesNewRoman(0)/m/n/13 Incorporating
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 11--12
+\TU/TimesNewRoman(0)/m/n/13 ground-truth reference (such as an optical motion-c
+apture system or
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 11--12
+\TU/TimesNewRoman(0)/m/n/13 millimeter-accurate laser measurement setup) would 
+enable direct
+ []
+
+
+Overfull \hbox (7.53662pt too wide) in paragraph at lines 13--14
+[]\TU/TimesNewRoman(0)/b/n/13 Comparative Non-Linear Filtering Benchmark: \TU/T
+imesNewRoman(0)/m/n/13 Executing a quantitative
+ []
+
+[70]
+Underfull \hbox (badness 1675) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/13 initial state $\OML/cmm/m/it/12 x[]$\TU/TimesNewRom
+an(0)/m/n/13 . A natural extension involves implementing global
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/13 localization algorithms-such as Monte Carlo Localiz
+ation (MCL) or
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/13 Particle Filtering-allowing the system to initializ
+e and recover pose
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 24--25
+[]\TU/TimesNewRoman(0)/b/n/13 Closed-Loop Motion Control Integration: \TU/Times
+NewRoman(0)/m/n/13 Feeding the estimated
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/13 pose output into a closed-loop trajectory tracking 
+or path-following
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/13 establishing the fundamental estimation layer requi
+red for feedback
+ []
+
+) (sections/7. Reference/Reference.tex [71]
+Underfull \hbox (badness 2057) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(0)/m/n/13 H. Taheri, B. Qiao, and N. Ghaeminezhad, ”Kinemat
+ic model of a
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 16--17
+[]\TU/TimesNewRoman(0)/m/n/13 S. Faria, J. Lima, and P. Costa, ”Sensor Fusion f
+or Mobile Robot
+ []
+
+[72
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]\TU/TimesNewRoman(0)/m/n/13 A. Joon and W. Kowalczyk, ”Leader–Follower Approa
+ch for
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 31--32
+\TU/TimesNewRoman(0)/m/n/13 Non-Holonomic Mobile Robots Based on Extended Kalma
+n Filter
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 37--38
+[]\TU/TimesNewRoman(0)/m/n/13 Z. Zhang, “A flexible new technique for camera ca
+libration,” \TU/TimesNewRoman(0)/m/it/13 IEEE
+ []
+
+) [73]
+Chapter 7.
+(sections/8. appendices/appendix.tex
+Underfull \hbox (badness 4242) in paragraph at lines 8--8
+[]\TU/TimesNewRoman(0)/m/n/13 Table 7.1: |Extended Kalman Filter Symbol Nomencl
+ature and Matrix
+ []
+
+
+Overfull \hbox (64.06932pt too wide) in paragraph at lines 10--29
+ [][] 
+ []
+
+) [74
+
+] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 6D760E71F2654DE4255B214DE1446878;23088.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 48382 strings out of 402987
+ 1110315 string characters out of 5448731
+ 2139256 words of memory out of 5000000
+ 76320 multiletter control sequences out of 15000+600000
+ 637635 words of font info for 109 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 108i,15n,107p,1541b,1283s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (82 pages).

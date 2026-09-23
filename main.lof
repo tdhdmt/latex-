@@ -1,0 +1,24 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Mecanum kinematic}}{7}{figure.caption.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System architecture}}{18}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Esp32 devkit C}}{22}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Motor driver L298n}}{23}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces MPU-6050}}{25}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Usb-webcam}}{27}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Marker layout}}{31}{figure.caption.31}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Two-layer distributed architecture block diagram}}{32}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Aruco marker detection}}{36}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces OLS regression between Var total and 1/v for three axes vx, vy, ωz, with three speed levels per axis (DOF=1)}}{47}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Systematic bias along the running direction, calculated separately for the three axes vx, vy, ωz at each test speed.}}{47}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Linear and circular noise}}{57}{figure.caption.87}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Mecanum robot}}{61}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Square trajectory compare}}{62}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Uncertainty square trajectory}}{63}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Circle trajectory compare}}{65}{figure.caption.101}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Uncertainty circle trajectory}}{66}{figure.caption.102}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
