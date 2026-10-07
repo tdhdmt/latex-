@@ -1,27 +1,28 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces ESP32 GPIO pinout and hardware peripheral assignment}}{20}{table.caption.12}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces Robot geometric parameters measured via vernier caliper}}{21}{table.caption.13}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces GA25-370 motor and encoder specifications}}{23}{table.caption.16}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces MPU-6050 Hardware and Electrical Specifications}}{25}{table.caption.20}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces System Configuration Parameters for MPU-6050}}{26}{table.caption.22}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces ArUco Marker Installation Guidelines and Technical Rationale}}{30}{table.caption.30}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces ESP32 GPIO pinout and hardware peripheral assignment}}{20}{table.caption.11}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Robot geometric parameters measured via vernier caliper}}{21}{table.caption.12}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces GA25-370 motor and encoder specifications}}{23}{table.caption.15}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces MPU-6050 Hardware and Electrical Specifications}}{25}{table.caption.19}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces System Configuration Parameters for MPU-6050}}{25}{table.caption.21}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces ArUco Marker Installation Guidelines and Technical Rationale}}{29}{table.caption.29}%
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {4.1}{\ignorespaces Camera Calibration Parameter Evaluation}}{34}{table.caption.36}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Vision Subsystem Parameter Nomenclature and Reference Frames}}{35}{table.caption.38}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Identified OLS Regression Parameters for Process Noise Model $Q_{\text {odom}}$}}{48}{table.caption.64}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces In-Situ Gyroscope Noise Calibration Parameters}}{51}{table.caption.69}%
-\contentsline {table}{\numberline {4.5}{\ignorespaces Gyroscope Measurement Noise Covariance ($R_{gz}$) Experimental Results}}{52}{table.caption.71}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces Vision Subsystem Specifications}}{54}{table.caption.76}%
-\contentsline {table}{\numberline {4.7}{\ignorespaces Depth Axis ($Z$) Experimental Noise Statistics ($x \approx 0, \text {yaw} \approx 0$)}}{56}{table.caption.83}%
-\contentsline {table}{\numberline {4.8}{\ignorespaces Orientation Axis ($\text {Yaw}$) Noise Statistics ($z \approx 90\text { cm}, x \approx 0$)}}{57}{table.caption.84}%
-\contentsline {table}{\numberline {4.9}{\ignorespaces Lateral Axis ($X$) Noise Statistics ($z \approx 90\text { cm}, \text {yaw} \approx 0$)}}{57}{table.caption.85}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Identified OLS Regression Parameters for Process Noise Model $Q_{\text {odom}}$}}{48}{table.caption.60}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces In-Situ Gyroscope Noise Calibration Parameters}}{51}{table.caption.65}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Gyroscope Measurement Noise Covariance ($R_{gz}$) Experimental Results}}{52}{table.caption.67}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Vision Subsystem Specifications}}{54}{table.caption.72}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Depth Axis ($Z$) Experimental Noise Statistics ($x \approx 0, \text {yaw} \approx 0$)}}{56}{table.caption.79}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Orientation Axis ($\text {Yaw}$) Noise Statistics ($z \approx 90\text { cm}, x \approx 0$)}}{56}{table.caption.80}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Lateral Axis ($X$) Noise Statistics ($z \approx 90\text { cm}, \text {yaw} \approx 0$)}}{56}{table.caption.81}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Summary of Experimental Evaluation Scenarios}}{60}{table.caption.91}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Operational Parameters During Trajectory Evaluation}}{60}{table.caption.93}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Quantitative Trajectory Drift Comparison: Predict-Only vs. Fusion Modes (Square Path)}}{62}{table.caption.95}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces Comparative Final Terminal State Performance: Dead-Reckoning vs. EKF Fusion}}{64}{table.caption.100}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Summary of Experimental Evaluation Scenarios}}{60}{table.caption.87}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Operational Parameters During Trajectory Evaluation}}{60}{table.caption.89}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Tracking Error (RMSE) against Onboard ArUco Measurements}}{62}{table.caption.91}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Relative Drift (RMS) between EKF Fusion and Dead Reckoning}}{62}{table.caption.92}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Absolute Trajectory Error (ATE) with respect to the reference system (Ground Truth). The Ground Truth column presents the repeatability ($1\sigma $) of the measurement system during static conditions, serving as the static noise floor.}}{66}{table.caption.98}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {7.1}{\ignorespaces Extended Kalman Filter Symbol Nomenclature and Matrix Dimensions}}{74}{table.caption.107}%
+\contentsline {table}{\numberline {7.1}{\ignorespaces Extended Kalman Filter Symbol Nomenclature and Matrix Dimensions}}{77}{table.caption.106}%
+\contentsline {table}{\numberline {7.2}{\ignorespaces Vision Subsystem Parameter Nomenclature and Reference Frames}}{78}{table.caption.107}%

@@ -1,5 +1,5 @@
 % !TEX program = xelatex
-\documentclass[12pt]{report}
+\documentclass[12pt,oneside]{report} % Thêm oneside để in 1 mặt
 
 % --- CẤU HÌNH CỠ CHỮ VÀ LỀ TRANG ---
 \usepackage[fontsize=13pt]{scrextend}
@@ -7,16 +7,26 @@
 
 % --- FONT CHỮ VÀ TIẾNG VIỆT/ANH ---
 \usepackage{fontspec}
-\usepackage{tgtermes}
 \setmainfont{Times New Roman}
 
-% --- CẤU HÌNH CẤM NGẮT TỪ DẤU GẠCH NỐI (-) TOÀN BỘ FILE ---
+% --- CẤU HÌNH CẤM NGẮT TỪ VÀ CHỐNG DÒNG MỒ CÔI (WIDOW/ORPHAN) ---
 \hyphenpenalty=10000        % Cấm hoàn toàn ngắt từ thường
 \exhyphenpenalty=10000     % Cấm ngắt từ cả ở các từ có sẵn dấu gạch nối
 \binoppenalty=10000         % Cấm ngắt dòng tại các phép toán (+, -)
 \relpenalty=10000           % Cấm ngắt dòng tại các dấu quan hệ (=, <, >)
 
+% Chống tiêu đề/đoạn văn bị rớt đơn độc ở cuối trang
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
 \usepackage{microtype}
+\usepackage{setspace}
+
+% --- CHÚ THÍCH (CAPTION) CHO BẢNG VÀ HÌNH ---
+\usepackage{caption}
+\captionsetup[table]{position=top, skip=6pt}    % Chú thích Bảng NẰM TRÊN
+\captionsetup[figure]{position=bottom, skip=6pt} % Chú thích Hình NẰM DƯỚI
 
 % --- TRÍCH DẪN VÀ TÀI LIỆU THAM KHẢO ---
 \usepackage{biblatex}
@@ -70,10 +80,10 @@
 % --- LỆNH TỰ ĐỊNH NGHĨA ---
 \newcommand{\Khang}[1]{\textcolor{red!70!pink}{\textbf{\textit{#1}}}}
 
-% --- PHÂN TRANG VÀ THỤT ĐẦU DÒNG ---
-\pagestyle{plain}
-\setlength{\parindent}{1.27cm}
-\linespread{1.1}
+% --- PHÂN TRANG, THỤT ĐẦU DÒNG VÀ GIÃN DÒNG ---
+\pagestyle{plain}             % Số trang ở cuối trang, canh giữa
+\setlength{\parindent}{1.27cm} % Thụt đầu dòng 5 khoảng trắng (~1.27cm)
+\setstretch{1.1}               % Giãn dòng 1.1 cho tài liệu Tiếng Anh
 
 % ======================================================
 % ĐỊNH DẠNG TIÊU ĐỀ (CHAPTER, SECTION, SUBSECTION)
@@ -86,34 +96,37 @@
   {10pt}
   {\MakeUppercase}
 
-% Tiêu đề Section: Cỡ chữ 13, in đậm
+% Tiêu đề Section: Cỡ chữ 13, in đậm, chữ thường
 \titleformat{\section}
   {\normalfont\fontsize{13pt}{15.6pt}\bfseries}
   {\thesection}
   {1em}
   {}
 
-% Tiêu đề Subsection: Cỡ chữ 13, in đậm
+% Tiêu đề Subsection: Cỡ chữ 13, in đậm, chữ thường
 \titleformat{\subsection}
   {\normalfont\fontsize{13pt}{15.6pt}\bfseries}
   {\thesubsection}
   {1em}
   {}
 
-
 \setlength{\emergencystretch}{2em}
+
 % ======================================================
 % BẮT ĐẦU TÀI LIỆU
 % ======================================================
 \begin{document}
 
 \input{sections/cover-page}
-\setmainfont{Times New Roman}
 
 \clearpage
 \pagenumbering{roman} 
-
+\input{sections/acknownledgement.tex}
 \input{sections/abstract}
+
+% --- THIẾT LẬP DÃN DÒNG 1.1 CHO TOÀN BỘ PHẦN MỤC LỤC VÀ CHƯƠNG ---
+\setstretch{1.1}
+\setlength{\parskip}{0pt}
 
 % \input{sections/list-of-abbreviations}
 
@@ -121,10 +134,10 @@
 \clearpage
 
 \listoftables
-\newpage
+\clearpage
 
 \listoffigures
-\newpage
+\clearpage
 
 % ======================================================
 % NỘI DUNG CHÍNH (Đánh số Ả Rập)
